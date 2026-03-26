@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dispatch_cards/static/js/main.8686495f.js",
+    "main.js": "/dispatch_cards/static/js/main.da353d5e.js",
     "index.html": "/dispatch_cards/index.html",
-    "main.8686495f.js.map": "/dispatch_cards/static/js/main.8686495f.js.map"
+    "main.da353d5e.js.map": "/dispatch_cards/static/js/main.da353d5e.js.map"
   },
   "entrypoints": [
-    "static/js/main.8686495f.js"
+    "static/js/main.da353d5e.js"
   ]
 }
