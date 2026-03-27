@@ -1,5 +1,6 @@
 LBC Dispatch Reference Cards 📡
-A mobile-first dispatch reference application built for Long Beach Communications (LBC) personnel. Provides fast, searchable access to dispatch cards covering call types, codes, geography, locations, and commands — optimized for real-time use during active dispatch calls.
+
+A mobile-first dispatch reference application built for Long Beach Disaster Prep and Emergency Communications (LBC) personnel. Provides fast, searchable access to dispatch cards covering call types, codes, geography, locations, and commands — optimized for real-time use during active dispatch calls.
 
 🔗 Live App
 https://chriskrs111.github.io/dispatch_cards
@@ -75,7 +76,8 @@ Name it Dispatch Ref and tap Add
 A print-ready Avery 8873 template (2" x 3.5" business cards, 10 per sheet) is maintained alongside this app covering all 206 cards across 21 pages.
 
 👤 Author
-Christopher VanSon — Long Beach Communications
+Christopher VanSon
+This application was independently developed and built for use by Long Beach Disaster Prep and Emergency Communications. The author is not affiliated with or employed by the organization.
 
 📄 License
 This project is for internal department use only. Not for public distribution.
