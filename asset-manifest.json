@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/dispatch_cards/static/css/main.acf14c43.css",
     "main.js": "/dispatch_cards/static/js/main.68374ab1.js",
     "index.html": "/dispatch_cards/index.html",
+    "main.acf14c43.css.map": "/dispatch_cards/static/css/main.acf14c43.css.map",
     "main.68374ab1.js.map": "/dispatch_cards/static/js/main.68374ab1.js.map"
   },
   "entrypoints": [
+    "static/css/main.acf14c43.css",
     "static/js/main.68374ab1.js"
   ]
 }
